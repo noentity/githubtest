@@ -1,1 +1,13 @@
-16:12  up 4 days,  5:49, 4 users, load averages: 0.30 0.38 0.41
+Software:
+
+    System Software Overview:
+
+      System Version: OS X 10.8.4 (12E55)
+      Kernel Version: Darwin 12.4.0
+      Boot Volume: Macintosh SSD
+      Boot Mode: Normal
+      Computer Name: My MacBook Pro
+      User Name: me (me)
+      Secure Virtual Memory: Not Enabled
+      Time since boot: 4 days 5:51
+
